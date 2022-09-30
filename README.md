@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ### Boston Housing Dataset Report
 
 ## Project Description
@@ -185,3 +186,7 @@ However, I would say that the model still doesn't completely describe the varian
 
 ![Image of Residual Plot]
 (residual_plot.png)
+=======
+# Boston-Housing-Prices
+Prediction of Boston Housing Prices using Regression
+>>>>>>> 515e99f310ca742fe01896b723861682768b7e39
